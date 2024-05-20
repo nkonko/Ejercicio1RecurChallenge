@@ -5,7 +5,9 @@ VisualStudioVersion = 17.8.34316.72
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "RecurChallenge", "RecurChallenge\RecurChallenge.csproj", "{B9CB8606-6DCF-4871-8647-48A016317B47}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Test", "Test\Test.csproj", "{9ADBB03B-1D48-4040-B824-1412E6579C5E}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Test", "Test\Test.csproj", "{9ADBB03B-1D48-4040-B824-1412E6579C5E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RecurrChallenge3", "RecurrChallenge3\RecurrChallenge3.csproj", "{0D747657-7E31-4EE1-93F7-56491B8102A5}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -21,6 +23,10 @@ Global
 		{9ADBB03B-1D48-4040-B824-1412E6579C5E}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{9ADBB03B-1D48-4040-B824-1412E6579C5E}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{9ADBB03B-1D48-4040-B824-1412E6579C5E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0D747657-7E31-4EE1-93F7-56491B8102A5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0D747657-7E31-4EE1-93F7-56491B8102A5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0D747657-7E31-4EE1-93F7-56491B8102A5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0D747657-7E31-4EE1-93F7-56491B8102A5}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
